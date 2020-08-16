@@ -14,3 +14,5 @@ As tecnologias utilizadas para o desenvolvimento do projeto foram as seguintes:
 - Node.js
 - Nunjucks
 - SQLite
+
+Desenvolvido por Lucas Pinheiro :metal:
